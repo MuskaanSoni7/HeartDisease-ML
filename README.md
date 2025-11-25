@@ -1,5 +1,16 @@
 # HeartDisease-ML
 
+## Project Structure
+Heart-Disease-Prediction-ML/
+│
+├── data/
+│   └── heart_data.csv 
+│
+├── notebooks/
+│   └── heartdiseaseassign.ipynb
+│
+├── README.md
+
 ## Project Overview
 Heart disease remains one of the leading causes of death globally. Early diagnosis through data-driven insights can save lives.  
 This project builds a machine learning classification model to predict whether a person is likely to develop heart disease based on clinical data such as age, cholesterol levels, resting blood pressure, chest pain type, etc.
