@@ -1,6 +1,4 @@
 # HeartDisease-ML
-
-## Project Structure
 Heart-Disease-Prediction-ML/
 │
 ├── data/
